@@ -276,7 +276,9 @@ function App() {
   return (
     <>
       <Header />
-      <p>GME shorts have not begun to close their positions in substantial numbers.</p>
+      <Article>
+        <p>GME shorts have not begun to close their positions in substantial numbers.</p>
+      </Article>
       <TheSituation />
       <NotificationForm />
       <Wat />
