@@ -191,7 +191,7 @@ function Resources() {
           <li><a target="_blank" rel="noreferrer" href="https://iborrowdesk.com/report/GME">
             iBorrow short shares borrow rates
           </a></li>
-          <li><a target="_blank"
+          <li><a target="_blank"  rel="noreferrer"
                  href="https://www.interactivebrokers.com/en/index.php?key=gme&cntry=usa&tag=United+States&ib_entity=&ln=&asset=&f=4587">
             Interactive Brokers borrow availability (free trial)
           </a></li>
