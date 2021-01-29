@@ -179,16 +179,16 @@ function Resources() {
       <p>
         do your own research you apes, don't rely on me
         <ul>
-          <li><a target="_blank" href="https://screener.shortsight.com/">
+          <li><a target="_blank" rel="noreferrer" href="https://screener.shortsight.com/">
             s3 shortsight (subscription)
           </a></li>
-          <li><a target="_blank" href="https://www.ortex.com/symbol/nyse/gme/short_interest">
+          <li><a target="_blank" rel="noreferrer" href="https://www.ortex.com/symbol/nyse/gme/short_interest">
             ortex short interest (trial + subscription)
           </a></li>
-          <li><a target="_blank" href="https://fintel.io/ss/us/gme">
+          <li><a target="_blank" rel="noreferrer" href="https://fintel.io/ss/us/gme">
             fintel short shares availability
           </a></li>
-          <li><a target="_blank" href="https://iborrowdesk.com/report/GME">
+          <li><a target="_blank" rel="noreferrer" href="https://iborrowdesk.com/report/GME">
             iBorrow short shares borrow rates
           </a></li>
           <li><a target="_blank"
@@ -256,10 +256,10 @@ function PointsOfInterest() {
 function Contact() {
   return (
     <Article>
-      <p><a target="_blank" href="https://bonner.jp">
+      <p><a target="_blank" rel="noreferrer" href="https://bonner.jp">
         by jp
       </a></p>
-      <p><a target="_blank" href="https://twitter.com/inflammateomnia">
+      <p><a target="_blank" rel="noreferrer" href="https://twitter.com/inflammateomnia">
         @inflammateomnia
       </a></p>
       <p>
