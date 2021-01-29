@@ -1,0 +1,60 @@
+html, body, #root {
+  width: 100%;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Helvetica', Arial, sans-serif;
+  color: #1c1c1c;
+  line-height: 1.4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+main {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  line-height: initial;
+  //
+  //@media (min-width: 800px) {
+  //  font-size: 6em;
+  //}
+}
+
+h2 {
+  font-size: 2em;
+  line-height: initial;
+  //
+  //@media (min-width: 800px) {
+  //  font-size: 4em;
+  //}
+}
+
+article {
+  max-width: 480px;
+  padding: 1em;
+
+  @media (min-width: 800px) {
+    padding: 0;
+  }
+}
+
+.var {
+  background-color: lightgray;
+}
+
+.hidden {
+  display: none;
+}
